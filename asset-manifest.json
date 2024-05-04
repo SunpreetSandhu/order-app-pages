@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/order-app-pages/static/css/main.f855e6bc.css",
-    "main.js": "/order-app-pages/static/js/main.5566c669.js",
-    "static/js/453.6853a71a.chunk.js": "/order-app-pages/static/js/453.6853a71a.chunk.js",
-    "static/media/logo.svg": "/order-app-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/order-app-pages/static/css/main.d12e1eb5.css",
+    "main.js": "/order-app-pages/static/js/main.d37739ca.js",
     "index.html": "/order-app-pages/index.html",
-    "main.f855e6bc.css.map": "/order-app-pages/static/css/main.f855e6bc.css.map",
-    "main.5566c669.js.map": "/order-app-pages/static/js/main.5566c669.js.map",
-    "453.6853a71a.chunk.js.map": "/order-app-pages/static/js/453.6853a71a.chunk.js.map"
+    "main.d12e1eb5.css.map": "/order-app-pages/static/css/main.d12e1eb5.css.map",
+    "main.d37739ca.js.map": "/order-app-pages/static/js/main.d37739ca.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.5566c669.js"
+    "static/css/main.d12e1eb5.css",
+    "static/js/main.d37739ca.js"
   ]
 }
