@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/order-app-pages/static/css/main.d12e1eb5.css",
-    "main.js": "/order-app-pages/static/js/main.d37739ca.js",
+    "main.js": "/order-app-pages/static/js/main.ad4adb17.js",
     "index.html": "/order-app-pages/index.html",
     "main.d12e1eb5.css.map": "/order-app-pages/static/css/main.d12e1eb5.css.map",
-    "main.d37739ca.js.map": "/order-app-pages/static/js/main.d37739ca.js.map"
+    "main.ad4adb17.js.map": "/order-app-pages/static/js/main.ad4adb17.js.map"
   },
   "entrypoints": [
     "static/css/main.d12e1eb5.css",
-    "static/js/main.d37739ca.js"
+    "static/js/main.ad4adb17.js"
   ]
 }
